@@ -1,0 +1,35 @@
+# --- Java ---
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+# --- Build/Compilação ---
+target/
+build/
+bin/
+dist/
+
+# --- IDEs (IntelliJ, Eclipse, VSCode) ---
+.idea/
+.settings/
+.project
+.classpath
+.metadata/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
